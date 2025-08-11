@@ -2,9 +2,9 @@
 
 Este es un proyecto de una Pokedex móvil desarrollada con React Native y TypeScript. La aplicación consume la API de Pokémon para mostrar una lista de Pokémon, junto con sus imágenes y detalles.
 
-![Texto alternativo de la imagen](src/assets/ImageApp01)
-![Texto alternativo de la imagen](src/assets/ImageApp02)
-![Texto alternativo de la imagen](src/assets/ImageApp03)
+![Texto alternativo de la imagen](src/assets/ImageApp01.png)
+![Texto alternativo de la imagen](src/assets/ImageApp02.png)
+![Texto alternativo de la imagen](src/assets/ImageApp03.png)
 
 ## Características
 
